@@ -7,10 +7,10 @@ missing module named multiprocessing.set_start_method - imported by multiprocess
 missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
 missing module named 'win32com.gen_py' - imported by win32com, c:\users\administrator\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
 missing module named pyimod03_importers - imported by PyInstaller.loader.pyimod02_archive, c:\users\administrator\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
-missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.markers, pkg_resources._vendor.packaging.requirements
 missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
 missing module named com - imported by pkg_resources._vendor.appdirs
 missing module named StringIO - imported by urllib3.packages.six, six, requests.compat, werkzeug._compat, PyInstaller.lib.modulegraph._compat, PyInstaller.lib.modulegraph.zipio, pkg_resources._vendor.six
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.markers, pkg_resources._vendor.packaging.requirements
 missing module named __builtin__ - imported by werkzeug._compat, pkg_resources._vendor.pyparsing
 missing module named ordereddict - imported by html5lib.treewalkers.etree, html5lib.filters.alphabeticalattributes, pkg_resources._vendor.pyparsing
 missing module named _scproxy - imported by urllib.request

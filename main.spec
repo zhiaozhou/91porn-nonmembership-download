@@ -3,8 +3,8 @@
 block_cipher = None
 
 
-a = Analysis(['main.py'],
-             pathex=['C:\\Users\\Administrator\\91porndl\\src'],
+a = Analysis(['src\\main.py'],
+             pathex=['C:\\Users\\Administrator\\91porndl'],
              binaries=[],
              datas=[],
              hiddenimports=[],

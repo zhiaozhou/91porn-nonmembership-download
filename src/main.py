@@ -8,6 +8,11 @@ from dl_hot_videos import *
 import sys
 
 if __name__ == '__main__':
+    print('----------------')
+    print('91porn视频下载破解')
+    print('----------------')
+    print('作者：zhiaozhou')
+    print('----------------')
     choice = input('请问您要下载单个视频（输入1），或是下载热门列表视频（输入2）？')
     if choice:
         if choice in ['1','2']:
