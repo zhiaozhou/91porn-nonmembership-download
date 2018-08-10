@@ -7,12 +7,12 @@ missing module named multiprocessing.set_start_method - imported by multiprocess
 missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
 missing module named 'win32com.gen_py' - imported by win32com, c:\users\administrator\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
 missing module named pyimod03_importers - imported by PyInstaller.loader.pyimod02_archive, c:\users\administrator\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
-missing module named __builtin__ - imported by werkzeug._compat, pkg_resources._vendor.pyparsing
-missing module named ordereddict - imported by html5lib.treewalkers.etree, html5lib.filters.alphabeticalattributes, pkg_resources._vendor.pyparsing
-missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
-missing module named StringIO - imported by urllib3.packages.six, six, requests.compat, werkzeug._compat, PyInstaller.lib.modulegraph._compat, PyInstaller.lib.modulegraph.zipio, pkg_resources._vendor.six
 missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
 missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named StringIO - imported by urllib3.packages.six, six, requests.compat, werkzeug._compat, PyInstaller.lib.modulegraph._compat, PyInstaller.lib.modulegraph.zipio, pkg_resources._vendor.six
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.markers, pkg_resources._vendor.packaging.requirements
+missing module named __builtin__ - imported by werkzeug._compat, pkg_resources._vendor.pyparsing
+missing module named ordereddict - imported by html5lib.treewalkers.etree, html5lib.filters.alphabeticalattributes, pkg_resources._vendor.pyparsing
 missing module named _scproxy - imported by urllib.request
 missing module named 'macholib.compat' - imported by macholib.MachO
 missing module named _pkgutil - imported by PyInstaller.lib.modulegraph.modulegraph
@@ -31,7 +31,7 @@ missing module named pkg_resources.extern.six - imported by pkg_resources.extern
 missing module named resource - imported by posix, C:\Users\Administrator\91porndl\src\main.py
 missing module named posix - imported by os, C:\Users\Administrator\91porndl\src\main.py
 missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, C:\Users\Administrator\91porndl\src\main.py
-missing module named 'org.python' - imported by pickle, xml.sax, C:\Users\Administrator\91porndl\src\main.py
+missing module named org - imported by pickle, C:\Users\Administrator\91porndl\src\main.py
 missing module named readline - imported by cmd, code, pdb, C:\Users\Administrator\91porndl\src\main.py
 excluded module named _frozen_importlib - imported by importlib, importlib.abc, PyInstaller.loader.pyimod02_archive, C:\Users\Administrator\91porndl\src\main.py
 missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\Administrator\91porndl\src\main.py
@@ -43,7 +43,7 @@ missing module named termios - imported by tty, getpass, C:\Users\Administrator\
 missing module named grp - imported by shutil, tarfile, C:\Users\Administrator\91porndl\src\main.py
 missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, distutils.util, C:\Users\Administrator\91porndl\src\main.py
 missing module named _dummy_threading - imported by dummy_threading, C:\Users\Administrator\91porndl\src\main.py
-missing module named org - imported by copy, C:\Users\Administrator\91porndl\src\main.py
+missing module named 'org.python' - imported by copy, xml.sax, C:\Users\Administrator\91porndl\src\main.py
 missing module named 'backports.ssl_match_hostname' - imported by urllib3.packages.ssl_match_hostname
 missing module named _abcoll - imported by urllib3.packages.ordered_dict
 missing module named dummy_thread - imported by urllib3.packages.ordered_dict

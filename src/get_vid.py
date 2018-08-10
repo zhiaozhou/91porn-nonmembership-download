@@ -16,15 +16,15 @@ def get_video_url(url):
     br = RoboBrowser(history=True,parser='lxml')
     br.open(url)
 
-    cn = input('请问是否要转换为中文？(y/n)')
-    if not cn:
-        cn = 'y'
-    if cn == 'y':
+    #cn = input('请问是否要转换为中文？(y/n)')
+    #if not cn:
+    #    cn = 'y'
+    #if cn == 'y':
         # shift to simplified chinese 
-        lang = br.get_forms()[0]
-        lang['session_language'].options = ['cn_CN']
-        lang['session_language'].value = 'cn_CN'
-        br.submit_form(lang)
+    #    lang = br.get_forms()[0]
+    #    lang['session_language'].options = ['cn_CN']
+    #    lang['session_language'].value = 'cn_CN'
+    #    br.submit_form(lang)
 
     # get video title
     vid_title = br.find('div',{'id':'viewvideo-title'}).text.strip()
